@@ -44,6 +44,7 @@ Outside of my academic and research pursuits, I’m an **avid half marathon runn
 🎸 In my free time, I love to **play the ukulele and sing Gujarati folk songs**.  
 
 ---
+![Visitor Count](https://komarev.com/ghpvc/?username=jaicdev&color=blue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaicdev&show_icons=true&theme=radical)
 
