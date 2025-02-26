@@ -1,50 +1,71 @@
-# 👋 Hi, I'm Jay!
+<h1 align="center">Hi there, I'm Jay! 👋</h1>
 
-I am a **Senior Research Fellow at Ahmedabad University**, working with **Prof. Mehul Raval** on the **GUJCOST Project: "Person Retrieval in Video Surveillance."** My research focuses on developing and deploying **real-time vision-language systems in resource-constrained environments**.
-
-I hold a **Master’s degree in Automatic Control and Robotics** from **The Maharaja Sayajirao University of Baroda**.
-
----
-
-## **🔬 Research Interests**
-- 🔍 **Surveillance**  
-- 🤖 **Computer Vision**  
-- ⚡ **Edge AI & Model Compression**  
-- 🕒 **Real-Time Systems**  
+<p align="center">
+🎓 Senior Research Fellow at <b>Ahmedabad University</b>  
+🔍 Working on <b>Person Retrieval in Video Surveillance</b> under <b>Prof. Mehul Raval</b>  
+🤖 Passionate about <b>Computer Vision, Model Compression & Edge AI</b>  
+</p>
 
 ---
 
-## **🏆 Featured Repositories**
-### 🔥 **QDPStudio**  
-A **unified framework for deep learning model compression**, integrating **quantization, pruning, and decomposition** to enhance model efficiency.  
-⭐ **Topics:** deep-learning, quantization, model-compression, PyTorch  
-🛠 **Language:** Python | 🔓 MIT License  
-📌 [GitHub Repo](https://github.com/jaicdev/QDPStudio)  
+## 🚀 **About Me**
+I specialize in **real-time vision-language systems for resource-constrained environments**.  
 
-### ✨ **AnnoTool**  
-A **lightweight Python-based annotation tool** for creating and managing bounding boxes in images.  
-⭐ **Topics:** object-detection, annotation-tool, image-processing  
-🛠 **Language:** Python | 🔓 MIT License  
-📌 [GitHub Repo](https://github.com/jaicdev/AnnoTool)  
+🎓 **Education:**  
+- **Master’s in Automatic Control & Robotics** – *The Maharaja Sayajirao University of Baroda*  
 
-### 💤 **Sleep-Stage-Classification**  
-Python scripts for **sleep stage classification using EEG data**. Includes **EDA and machine learning models**.  
-⭐ **Topics:** EEG, machine learning, classification  
-🛠 **Language:** Python | 🔓 MIT License  
-📌 [GitHub Repo](https://github.com/jaicdev/Sleep-Stage-Classification)  
+🏃‍♂️ **Beyond Research:**  
+- Avid **half marathon runner** 🏅  
+  - **Adani Ahmedabad Marathon (2023 & 2024)**  
+  - **Ahmedabad East Marathon (2025)**  
+- 🎸 Enjoy playing **ukulele & singing Gujarati folk songs** 🎶  
 
 ---
 
-## **🏃 Beyond Research**
-Outside of my academic and research pursuits, I’m an **avid half marathon runner**.  
-🏅 Completed:  
-- **Adani Ahmedabad Marathon (2023 & 2024)**  
-- **Ahmedabad East Marathon (2025)**  
-
-🎸 In my free time, I love to **play the ukulele and sing Gujarati folk songs**.  
+## 🔬 **Research Interests**
+- 📹 **Surveillance & Computer Vision**
+- ⚡ **Edge AI & Model Compression**
+- 🔍 **Real-Time Vision-Language Systems**
+- 🧠 **Deep Learning Optimization**
 
 ---
-![Visitor Count](https://komarev.com/ghpvc/?username=jaicdev&color=blue)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaicdev&show_icons=true&theme=radical)
+## 📌 **Featured Projects**
+### 🔥 [QDPStudio](https://github.com/jaicdev/QDPStudio)  
+A **unified framework for deep learning model compression**, combining **quantization, pruning, and decomposition** for optimized inference.  
+🛠 **Python** | 🔓 MIT License  
 
+### ✨ [AnnoTool](https://github.com/jaicdev/AnnoTool)  
+A **lightweight Python annotation tool** for object detection tasks, featuring an intuitive UI and error handling.  
+🛠 **Python** | 🔓 MIT License  
+
+### 💤 [Sleep-Stage-Classification](https://github.com/jaicdev/Sleep-Stage-Classification)  
+Python scripts for **sleep stage classification using EEG data**, including **EDA and machine learning models**.  
+🛠 **Python** | 🔓 MIT License  
+
+---
+
+## 📊 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaicdev&theme=radical" width="48%">
+</p>
+
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jaicdev&show_icons=true&theme=radical" width="48%">
+</p>
+
+---
+
+## 📫 **Connect with Me**
+<p align="center">
+  <a href="https://github.com/jaicdev">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jaychaudhari21/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:jay.chaudhari@ahduni.edu.in">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
