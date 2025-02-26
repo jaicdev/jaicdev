@@ -20,7 +20,6 @@ I specialize in **real-time vision-language systems for resource-constrained env
 - 📹 **Surveillance & Computer Vision**
 - ⚡ **Edge AI & Model Compression**
 - 🔍 **Real-Time Vision-Language Systems**
-- 🧠 **Deep Learning Optimization**
 
 ---
 
@@ -42,10 +41,8 @@ Python scripts for **sleep stage classification using EEG data**, including **ED
 ## 📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaicdev&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaicdev&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaicdev&langs_count=6&layout=compact&theme=radical" width="43%">
 </p>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaicdev&langs_count=6&layout=compact&theme=radical)
 
 ---
 
@@ -61,7 +58,6 @@ Python scripts for **sleep stage classification using EEG data**, including **ED
 ## 🔧 **Tech Stack & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
