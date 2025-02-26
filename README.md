@@ -14,12 +14,6 @@ I specialize in **real-time vision-language systems for resource-constrained env
 🎓 **Education:**  
 - **Master’s in Automatic Control & Robotics** – *The Maharaja Sayajirao University of Baroda*  
 
-🏃‍♂️ **Beyond Research:**  
-- Avid **half marathon runner** 🏅  
-  - **Adani Ahmedabad Marathon (2023 & 2024)**  
-  - **Ahmedabad East Marathon (2025)**  
-- 🎸 Enjoy playing **ukulele & singing Gujarati folk songs** 🎶  
-
 ---
 
 ## 🔬 **Research Interests**
@@ -46,23 +40,38 @@ Python scripts for **sleep stage classification using EEG data**, including **ED
 ---
 
 ## 📊 **GitHub Stats**
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaicdev&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaicdev&theme=radical" width="48%">
 </p>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=jaicdev&color=red)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jaicdev&langs_count=6&layout=compact&theme=radical)
+
+---
+
+## 🔥 **GitHub Activity & Achievements**
+![Visitor Count](https://komarev.com/ghpvc/?username=jaicdev&color=blue)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jaicdev&theme=react)
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=jaicdev&theme=radical)
+
+---
+
+## 🔧 **Tech Stack & Tools**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🎭 **Fun Corner**
+![Joke](https://readme-jokes.vercel.app/api?theme=radical)
 
 ---
 
 ## 📫 **Connect with Me**
 <p align="center">
-  <a href="https://github.com/jaicdev">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/jaychaudhari21/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
   <a href="mailto:jay.chaudhari@ahduni.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
