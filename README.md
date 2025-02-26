@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I'm Jay! 👋</h1>
 
 <p align="center">
-🎓 Senior Research Fellow at <b>Ahmedabad University</b>  
-🔍 Working on <b>Person Retrieval in Video Surveillance</b> under <b>Prof. Mehul Raval</b>  
+🎓 Senior Research Fellow at <b>Ahmedabad University</b> <br>
+🔍 Working on <b>Person Retrieval in Video Surveillance</b> under <b>Prof. Mehul Raval</b> <br>
 🤖 Passionate about <b>Computer Vision, Model Compression & Edge AI</b>  
 </p>
 
@@ -46,14 +46,12 @@ Python scripts for **sleep stage classification using EEG data**, including **ED
 ---
 
 ## 📊 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jaicdev&theme=radical" width="48%">
-</p>
-
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jaicdev&show_icons=true&theme=radical" width="48%">
 </p>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=jaicdev&color=red)
 
 ---
 
