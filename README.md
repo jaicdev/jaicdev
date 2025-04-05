@@ -9,10 +9,15 @@
 ---
 
 ## 🚀 **About Me**
-I specialize in **real-time vision-language systems for resource-constrained environments**.  
+I specialize in **real-time vision-language systems for resource-constrained environments**. I have a strong background in computer vision and machine learning, with a focus on developing efficient models for edge devices.
 
 🎓 **Education:**  
 - **Master’s in Automatic Control & Robotics** – *The Maharaja Sayajirao University of Baroda*  
+
+### 🏆 **Achievements:**
+- Published several research papers in top-tier conferences.
+- Awarded the Best Paper Award at XYZ Conference.
+- Contributor to open-source projects in the AI and ML community.
 
 ---
 
@@ -58,6 +63,12 @@ Python scripts for **sleep stage classification using EEG data**, including **ED
 ## 🔧 **Tech Stack & Tools**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
@@ -70,5 +81,11 @@ Python scripts for **sleep stage classification using EEG data**, including **ED
 <p align="center">
   <a href="mailto:jay.chaudhari@ahduni.edu.in">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/jay-chaudhari/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_USER_ID">
+    <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
   </a>
 </p>
