@@ -12,13 +12,8 @@
 I specialize in **real-time vision-language systems for resource-constrained environments**. I have a strong background in computer vision and machine learning, with a focus on developing efficient models for edge devices.
 
 🎓 **Education:**  
-- **Master’s in Automatic Control & Robotics** – *The Maharaja Sayajirao University of Baroda*  
-
-### 🏆 **Achievements:**
-- Published several research papers in top-tier conferences.
-- Awarded the Best Paper Award at XYZ Conference.
-- Contributor to open-source projects in the AI and ML community.
-
+- **Master’s in Automatic Control & Robotics** – *The Maharaja Sayajirao University of Baroda*
+  
 ---
 
 ## 🔬 **Research Interests**
